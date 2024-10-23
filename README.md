@@ -8,6 +8,21 @@ Foxy.io is a GUI-based IP tracking application designed for Linux. It allows use
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/foxy_io_ip_tracker.git
-   cd foxy_io_ip_tracker
+   git clone https://github.com/baraskarvaishnav/ipaddrtrackertracker.git
+   cd ipaddrtracker
+2. Setting up vitual enviroment:
+   ```bash
+   python3 --version
+   python -m venv --help
+   cd /path/to/your/project
+   python -m venv myenv
+   source myenv/bin/activate
+3. Install the required packages:
+   ```bash
+   pip3 install -r requirements.txt
+4. Run the application:
+   ```bash
+   python3 main.py
+
+ 
 

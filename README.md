@@ -8,7 +8,7 @@ ipaddrtracker is a GUI-based IP tracking application designed for Linux. It allo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/baraskarvaishnav/ipaddrtrackertracker.git
+   git clone https://github.com/baraskarvaishnav/ipaddrtracker.git
    cd ipaddrtracker
 2. Setting up vitual enviroment:
    ```bash
